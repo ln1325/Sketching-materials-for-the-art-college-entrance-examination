@@ -7,3 +7,8 @@
 > 说真的，我感觉AI生成的速写实在是不尽人意，就像在开盲盒一样，有的时候并不适用于考试，可能甚至连最基本的美观都做不到，也许是用的模型太差了，但是没办法，便宜没好货
 
 我决定把这些好看的速写画作分享到这里（其实是我想找别的地方存放），并不定期添加内容
+
+
+## 快速跳转通道
+
+<a href="https://github.com/ln1325/Sketching-materials-for-the-art-college-entrance-examination/tree/main/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%A4%B4%E9%83%A8%E7%B4%A0%E6%9D%90">速写素材_头部素材</a>
