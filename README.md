@@ -9,7 +9,9 @@
 
 ## 快速跳转通道
 
-[速写素材_头部素材](https://github.com/ln1325/Sketching-materials-for-the-art-college-entrance-examination/tree/main/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%A4%B4%E9%83%A8%E7%B4%A0%E6%9D%90)
+<a href="https://github.com/ln1325/sketch-head-and-face/tree/main/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%A4%B4%E9%83%A8%E7%B4%A0%E6%9D%90">
+    速写素材_头部素材
+</a>
 
 ---
 以下内容为AI生成，请检查是否准确，因为我不使用Git这个命令行软件，我也不知道如何获取Raw链接
